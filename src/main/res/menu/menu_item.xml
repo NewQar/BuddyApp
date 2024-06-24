@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"
+    />
+
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/baseline_accessibility_new_24"
+        android:title="Friend"
+        />
+
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Find Days"
+    />
+
+    <item
+        android:id="@+id/send"
+        android:icon="@drawable/baseline_message_24"
+        android:title="Send wish" />
+
+    </menu>
